@@ -5,7 +5,7 @@ How to install?
 $ git clone --recursive git@github.com:mahendrakalkura/mysql.git
 $ cd mysql
 $ mkvirtualenv --python=python3 mysql
-$ pip install --requirement requirement.txt
+$ pip install --requirement requirements.txt
 ```
 
 How to run?
